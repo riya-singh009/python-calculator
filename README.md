@@ -1,10 +1,14 @@
 # Python Calculator
 
-A simple calculator program in Python that performs:
+This is a basic calculator program written in Python.  
+It supports the following operations:
+
 - Addition
 - Subtraction
 - Multiplication
 - Division
+- Square
+- Square Root
 
 ## How to Run
 ```bash
